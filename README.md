@@ -1,2 +1,2 @@
 # repo
-Issue tracking for the archive.raspberrypi.org repo
+Issue tracking for Raspberry Pi OS packages, which are available from archive.raspberrypi.com.
